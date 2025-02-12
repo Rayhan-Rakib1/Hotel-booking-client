@@ -1,0 +1,942 @@
+[
+      {
+        "roomId": "RM001",
+        "type": "Presidential Suite",
+        "pricePerNight": 1000,
+        "currency": "USD",
+        "capacity": 5,
+        "bedType": "King + Sofa Bed",
+        "size": "150 sqm",
+        "theme": "Luxury Modern",
+        "floorNumber": 15,
+        "view": "City Skyline",
+        "amenities": [
+          "Private Jacuzzi",
+          "Smart Home System",
+          "Premium Coffee Machine",
+          "Personal Butler Service",
+          "Floor-to-Ceiling Windows",
+          "Heated Flooring",
+          "Rain Shower",
+          "In-room Safe"
+        ],
+        "images": [
+          "https://th.bing.com/th?id=OIP.ETQpUS3wKll91XlggYSEJQHaE8&w=306&h=204&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"
+         
+        ],
+        "availableDates": ["2024-12-30", "2024-12-31", "2025-01-01"],
+        "smokingAllowed": false,
+        "petFriendly": true
+      },
+      {
+        "roomId": "RM002",
+        "type": "Oceanfront Deluxe Room",
+        "pricePerNight": 350,
+        "currency": "USD",
+        "capacity": 3,
+        "bedType": "Queen",
+        "size": "50 sqm",
+        "theme": "Tropical Paradise",
+        "floorNumber": 5,
+        "view": "Oceanfront",
+        "amenities": [
+          "Private Balcony",
+          "Beach Access",
+          "Hammock",
+          "Mini Bar",
+          "Flat Screen TV",
+          "Luxury Bathrobe",
+          "Daily Room Service"
+        ],
+        "images": [
+          "https://th.bing.com/th?id=OIP.JbhsI6d_DpTV6QnMGzvO_wHaE8&w=306&h=204&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"
+        ],
+        "availableDates": ["2024-12-28", "2024-12-29", "2024-12-30", "2024-12-31"],
+        "smokingAllowed": false,
+        "petFriendly": false
+      },
+      {
+        "roomId": "RM003",
+        "type": "Family Suite",
+        "pricePerNight": 500,
+        "currency": "USD",
+        "capacity": 6,
+        "bedType": "Two Queen Beds + Sofa Bed",
+        "size": "120 sqm",
+        "theme": "Cozy Family Home",
+        "floorNumber": 8,
+        "view": "Park",
+        "amenities": [
+          "Kids Play Area",
+          "Game Console",
+          "Kitchenette",
+          "Board Games",
+          "High Chair",
+          "Baby Crib on Request",
+          "Streaming Services"
+        ],
+        "images": [
+          "https://th.bing.com/th?id=OIP.I8G8xjBPrtAU3w6b5-qaBwHaFN&w=298&h=209&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"
+        ],
+        "availableDates": ["2024-12-29", "2024-12-30", "2024-12-31", "2025-01-01"],
+        "smokingAllowed": false,
+        "petFriendly": true
+      },
+      {
+        "roomId": "RM004",
+        "type": "Eco-Friendly Cabin",
+        "pricePerNight": 250,
+        "currency": "USD",
+        "capacity": 4,
+        "bedType": "Double",
+        "size": "70 sqm",
+        "theme": "Nature Retreat",
+        "floorNumber": 1,
+        "view": "Forest",
+        "amenities": [
+          "Solar-Powered Energy",
+          "Compost Bin",
+          "Wood Stove",
+          "Organic Linens",
+          "Outdoor Fire Pit",
+          "Recycling Station",
+          "Rainwater Shower"
+        ],
+        "images": [
+          "https://th.bing.com/th?id=OIP.eUmRjpZOz3-yqS_-wEwRPQHaE8&w=306&h=204&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"
+        ],
+        "availableDates": ["2024-12-27", "2024-12-28", "2024-12-29", "2024-12-30"],
+        "smokingAllowed": false,
+        "petFriendly": false
+      },
+      {
+        "roomId": "RM005",
+        "type": "Honeymoon Suite",
+        "pricePerNight": 800,
+        "currency": "USD",
+        "capacity": 2,
+        "bedType": "King",
+        "size": "90 sqm",
+        "theme": "Romantic Getaway",
+        "floorNumber": 10,
+        "view": "Sunset Ocean View",
+        "amenities": [
+          "Private Pool",
+          "Candlelit Dinner Setup",
+          "Champagne on Arrival",
+          "Luxury Bathtub",
+          "Mood Lighting",
+          "Couple's Spa Services",
+          "Personalized Decorations"
+        ],
+        "images": [
+          "https://th.bing.com/th/id/OIP.lF5VK1jCX1Jq0Im8ST1FFgHaE8?w=287&h=191&c=7&r=0&o=5&pid=1.7"
+         
+        ],
+        "availableDates": ["2024-12-28", "2024-12-29", "2024-12-30"],
+        "smokingAllowed": false,
+        "petFriendly": false
+      },
+      {
+        "roomId": "RM006",
+        "type": "Penthouse Suite",
+        "pricePerNight": 1200,
+        "currency": "USD",
+        "capacity": 4,
+        "bedType": "King + Sofa Bed",
+        "size": "200 sqm",
+        "theme": "Skyline Elegance",
+        "floorNumber": 25,
+        "view": "Panoramic City View",
+        "amenities": [
+          "Private Rooftop Terrace",
+          "Infinity Pool",
+          "Wine Cellar",
+          "Dedicated Office Space",
+          "Home Theater System",
+          "Art Collection"
+        ],
+        "images": [
+          "https://th.bing.com/th/id/OIP.lF5VK1jCX1Jq0Im8ST1FFgHaE8?w=287&h=191&c=7&r=0&o=5&pid=1.7"
+        ],
+        "availableDates": ["2024-12-31", "2025-01-01", "2025-01-02"],
+        "smokingAllowed": false,
+        "petFriendly": false
+      },
+      {
+        "roomId": "RM007",
+        "type": "Overwater Bungalow",
+        "pricePerNight": 700,
+        "currency": "USD",
+        "capacity": 2,
+        "bedType": "King",
+        "size": "80 sqm",
+        "theme": "Tropical Bliss",
+        "floorNumber": "Water Level",
+        "view": "Ocean",
+        "amenities": [
+          "Glass Floor Panels",
+          "Direct Ocean Access",
+          "Outdoor Shower",
+          "Hammock Over Water",
+          "Sun Deck",
+          "Snorkeling Gear"
+        ],
+        "images": [
+          "https://th.bing.com/th?id=OIP.qRJFBjNjwd6WeVwwgkcDDgHaE7&w=306&h=204&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"
+        ],
+        "availableDates": ["2024-12-28", "2024-12-29", "2024-12-30"],
+        "smokingAllowed": false,
+        "petFriendly": false
+      },
+      {
+        "roomId": "RM008",
+        "type": "Heritage Room",
+        "pricePerNight": 400,
+        "currency": "USD",
+        "capacity": 3,
+        "bedType": "Queen",
+        "size": "60 sqm",
+        "theme": "Colonial Charm",
+        "floorNumber": 2,
+        "view": "Courtyard",
+        "amenities": [
+          "Antique Furniture",
+          "Vintage Decor",
+          "Four-Poster Bed",
+          "Handwoven Rugs",
+          "Writing Desk",
+          "Clawfoot Bathtub"
+        ],
+        "images": [
+          "https://th.bing.com/th?id=OIP.qRJFBjNjwd6WeVwwgkcDDgHaE7&w=306&h=204&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"
+        ],
+        "availableDates": ["2024-12-27", "2024-12-28", "2024-12-29"],
+        "smokingAllowed": true,
+        "petFriendly": false
+      },
+      {
+        "roomId": "RM009",
+        "type": "Loft Apartment",
+        "pricePerNight": 500,
+        "currency": "USD",
+        "capacity": 4,
+        "bedType": "Two Queen Beds",
+        "size": "110 sqm",
+        "theme": "Urban Industrial",
+        "floorNumber": 9,
+        "view": "City Streets",
+        "amenities": [
+          "Exposed Brick Walls",
+          "High Ceilings",
+          "Open Kitchen",
+          "Washer/Dryer",
+          "Smart Speakers",
+          "Floor-to-Ceiling Windows"
+        ],
+        "images": [
+          "https://th.bing.com/th?id=OIP.pMbbR4yghEce8r2rV5aIRQHaE4&w=307&h=203&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"
+        ],
+        "availableDates": ["2024-12-30", "2024-12-31", "2025-01-01"],
+        "smokingAllowed": false,
+        "petFriendly": true
+      },
+      {
+        "roomId": "RM010",
+        "type": "Desert Tent",
+        "pricePerNight": 300,
+        "currency": "USD",
+        "capacity": 2,
+        "bedType": "Double",
+        "size": "40 sqm",
+        "theme": "Bedouin Luxury",
+        "floorNumber": "Ground",
+        "view": "Desert Dunes",
+        "amenities": [
+          "Private Fire Pit",
+          "Stargazing Deck",
+          "Traditional Carpets",
+          "Lantern Lighting",
+          "Outdoor Seating",
+          "Camel Safari Access"
+        ],
+        "images": [
+          "https://th.bing.com/th?id=OIP.is9aoWguaoGPwaU_LzLOXAHaE7&w=306&h=204&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"
+        ],
+        "availableDates": ["2024-12-29", "2024-12-30", "2024-12-31"],
+        "smokingAllowed": false,
+        "petFriendly": true
+      },
+      {
+        "roomId": "RM011",
+        "type": "Treehouse Suite",
+        "pricePerNight": 450,
+        "currency": "USD",
+        "capacity": 3,
+        "bedType": "Queen",
+        "size": "75 sqm",
+        "theme": "Jungle Adventure",
+        "floorNumber": "Elevated",
+        "view": "Rainforest Canopy",
+        "amenities": [
+          "Suspension Bridge Access",
+          "Outdoor Shower",
+          "Eco-Friendly Toiletries",
+          "Birdwatching Deck",
+          "Insect-Repelling Systems",
+          "Binoculars"
+        ],
+        "images": [
+          "https://th.bing.com/th?id=OIP.is9aoWguaoGPwaU_LzLOXAHaE7&w=306&h=204&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"
+        ],
+        "availableDates": ["2024-12-28", "2024-12-29", "2024-12-30"],
+        "smokingAllowed": false,
+        "petFriendly": false
+      },
+      {
+        "roomId": "RM012",
+        "type": "Igloo Dome",
+        "pricePerNight": 600,
+        "currency": "USD",
+        "capacity": 2,
+        "bedType": "Double",
+        "size": "50 sqm",
+        "theme": "Arctic Escape",
+        "floorNumber": "Ground",
+        "view": "Northern Lights",
+        "amenities": [
+          "Heated Floors",
+          "Thermal Sleeping Bags",
+          "Panoramic Glass Ceiling",
+          "Fireplace",
+          "Hot Cocoa Bar",
+          "Snowshoes"
+        ],
+        "images": [
+          "https://th.bing.com/th?id=OIP.qRJFBjNjwd6WeVwwgkcDDgHaE7&w=306&h=204&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"
+        ],
+        "availableDates": ["2024-12-31", "2025-01-01", "2025-01-02"],
+        "smokingAllowed": false,
+        "petFriendly": false
+      },
+      {
+        "roomId": "RM013",
+        "type": "Underwater Suite",
+        "pricePerNight": 1500,
+        "currency": "USD",
+        "capacity": 2,
+        "bedType": "King",
+        "size": "100 sqm",
+        "theme": "Marine Wonderland",
+        "floorNumber": "Underwater",
+        "view": "Coral Reef",
+        "amenities": [
+          "Panoramic Aquarium Walls",
+          "Marine Guide Access",
+          "Luxury Bathroom",
+          "Mood Lighting",
+          "Private Elevator",
+          "Personal Chef"
+        ],
+        "images": [
+          "https://th.bing.com/th/id/OIP.lF5VK1jCX1Jq0Im8ST1FFgHaE8?w=287&h=191&c=7&r=0&o=5&pid=1.7"
+        ],
+        "availableDates": ["2024-12-30", "2024-12-31", "2025-01-01"],
+        "smokingAllowed": false,
+        "petFriendly": false
+      },
+      {
+        "roomId": "RM014",
+        "type": "Cultural Villa",
+        "pricePerNight": 550,
+        "currency": "USD",
+        "capacity": 5,
+        "bedType": "Two Double Beds",
+        "size": "120 sqm",
+        "theme": "Local Heritage",
+        "floorNumber": "Ground",
+        "view": "Garden",
+        "amenities": [
+          "Private Garden",
+          "Cultural Artifacts",
+          "Traditional Music System",
+          "Handcrafted Furniture",
+          "Outdoor Dining Area",
+          "On-site Cultural Workshops"
+        ],
+        "images": [
+          "https://th.bing.com/th?id=OIP.qRJFBjNjwd6WeVwwgkcDDgHaE7&w=306&h=204&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"
+        ],
+        "availableDates": ["2024-12-29", "2024-12-30", "2024-12-31"],
+        "smokingAllowed": true,
+        "petFriendly": true
+      },
+      {
+        "roomId": "RM015",
+        "type": "Space Capsule",
+        "pricePerNight": 800,
+        "currency": "USD",
+        "capacity": 1,
+        "bedType": "Single Pod",
+        "size": "20 sqm",
+        "theme": "Futuristic Experience",
+        "floorNumber": "Zero Gravity",
+        "view": "Galaxy Stars",
+        "amenities": [
+          "Zero Gravity Bed",
+          "360° View Dome",
+          "Virtual Reality Entertainment",
+          "Astronaut Meals",
+          "AI Butler",
+          "Space-Themed Decorations"
+        ],
+        "images": [
+          "https://th.bing.com/th?id=OIP.qRJFBjNjwd6WeVwwgkcDDgHaE7&w=306&h=204&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"
+        ],
+        "availableDates": ["2024-12-30", "2024-12-31", "2025-01-01"],
+        "smokingAllowed": false,
+        "petFriendly": false
+      },
+      {
+        "roomId": "RM016",
+        "type": "Galaxy Dome",
+        "pricePerNight": 1100,
+        "currency": "USD",
+        "capacity": 4,
+        "bedType": "Two Queen Beds",
+        "size": "85 sqm",
+        "theme": "Astronomy Paradise",
+        "floorNumber": "Ground",
+        "view": "Milky Way",
+        "amenities": [
+          "Telescope",
+          "Star Maps",
+          "Aurora Watching Deck",
+          "Heated Lounge Chairs",
+          "Mood Lighting",
+          "Soundproof Dome"
+        ],
+        "images": [
+          "https://th.bing.com/th/id/OIP.lF5VK1jCX1Jq0Im8ST1FFgHaE8?w=287&h=191&c=7&r=0&o=5&pid=1.7"
+        ],
+        "availableDates": ["2024-12-30", "2024-12-31", "2025-01-01"],
+        "smokingAllowed": false,
+        "petFriendly": false
+      },
+      {
+        "roomId": "RM017",
+        "type": "Zen Garden Suite",
+        "pricePerNight": 700,
+        "currency": "USD",
+        "capacity": 3,
+        "bedType": "King",
+        "size": "70 sqm",
+        "theme": "Tranquil Retreat",
+        "floorNumber": "Ground",
+        "view": "Japanese Garden",
+        "amenities": [
+          "Meditation Area",
+          "Bonsai Trees",
+          "Tatami Mats",
+          "Soaking Tub",
+          "Private Tea Room",
+          "Waterfall Sounds"
+        ],
+        "images": [
+          "https://th.bing.com/th?id=OIP.qRJFBjNjwd6WeVwwgkcDDgHaE7&w=306&h=204&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"
+        ],
+        "availableDates": ["2024-12-28", "2024-12-29", "2024-12-30"],
+        "smokingAllowed": false,
+        "petFriendly": true
+      },
+      {
+        "roomId": "RM018",
+        "type": "Safari Lodge",
+        "pricePerNight": 900,
+        "currency": "USD",
+        "capacity": 5,
+        "bedType": "King + Twin Beds",
+        "size": "100 sqm",
+        "theme": "Wildlife Adventure",
+        "floorNumber": "Ground",
+        "view": "Savanna",
+        "amenities": [
+          "Private Safari Guide",
+          "Open-Air Shower",
+          "Animal Viewing Deck",
+          "Binoculars",
+          "Luxury Tents",
+          "Eco-Friendly Toiletries"
+        ],
+        "images": [
+          "https://th.bing.com/th?id=OIP.eUmRjpZOz3-yqS_-wEwRPQHaE8&w=306&h=204&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"
+        ],
+        "availableDates": ["2024-12-29", "2024-12-30", "2024-12-31"],
+        "smokingAllowed": true,
+        "petFriendly": true
+      },
+      {
+        "roomId": "RM019",
+        "type": "Art Studio Room",
+        "pricePerNight": 500,
+        "currency": "USD",
+        "capacity": 2,
+        "bedType": "Double",
+        "size": "65 sqm",
+        "theme": "Creative Haven",
+        "floorNumber": 4,
+        "view": "City Streets",
+        "amenities": [
+          "Easel and Canvas",
+          "Art Supplies",
+          "Art Gallery Access",
+          "In-room Coffee Station",
+          "Sketching Table",
+          "Inspirational Library"
+        ],
+        "images": [
+          "https://th.bing.com/th?id=OIP.eUmRjpZOz3-yqS_-wEwRPQHaE8&w=306&h=204&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"
+        ],
+        "availableDates": ["2024-12-28", "2024-12-29", "2024-12-30"],
+        "smokingAllowed": false,
+        "petFriendly": true
+      },
+      {
+        "roomId": "RM020",
+        "type": "Pirate Ship Cabin",
+        "pricePerNight": 600,
+        "currency": "USD",
+        "capacity": 4,
+        "bedType": "Two Double Beds",
+        "size": "75 sqm",
+        "theme": "Nautical Adventure",
+        "floorNumber": "Deck",
+        "view": "Ocean",
+        "amenities": [
+          "Wooden Decor",
+          "Treasure Chest Mini Bar",
+          "Captain's Log",
+          "Hammock",
+          "Lantern Lighting",
+          "Boat Tours"
+        ],
+        "images": [
+          "https://th.bing.com/th/id/OIP.lF5VK1jCX1Jq0Im8ST1FFgHaE8?w=287&h=191&c=7&r=0&o=5&pid=1.7"
+        ],
+        "availableDates": ["2024-12-29", "2024-12-30", "2024-12-31"],
+        "smokingAllowed": false,
+        "petFriendly": false
+      },
+      {
+        "roomId": "RM021",
+        "type": "Himalayan Retreat",
+        "pricePerNight": 950,
+        "currency": "USD",
+        "capacity": 3,
+        "bedType": "King",
+        "size": "80 sqm",
+        "theme": "Mountain Bliss",
+        "floorNumber": "Summit Level",
+        "view": "Snow-Capped Peaks",
+        "amenities": [
+          "Heated Fireplace",
+          "Mountain Gear",
+          "Hot Spring Access",
+          "Yoga Mat",
+          "Outdoor Fire Pit",
+          "Panoramic Glass Windows"
+        ],
+        "images": [
+          "https://th.bing.com/th?id=OIP.qRJFBjNjwd6WeVwwgkcDDgHaE7&w=306&h=204&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" 
+        ],
+        "availableDates": ["2024-12-30", "2024-12-31", "2025-01-01"],
+        "smokingAllowed": false,
+        "petFriendly": false
+      },
+      {
+        "roomId": "RM022",
+        "type": "Floating Cabin",
+        "pricePerNight": 800,
+        "currency": "USD",
+        "capacity": 2,
+        "bedType": "Double",
+        "size": "60 sqm",
+        "theme": "Aqua Serenity",
+        "floorNumber": "Floating",
+        "view": "Open Sea",
+        "amenities": [
+          "Dock Access",
+          "Kayaks",
+          "Fishing Equipment",
+          "Outdoor Deck",
+          "Hammock",
+          "Transparent Floors"
+        ],
+        "images": [
+          "https://th.bing.com/th?id=OIP.qRJFBjNjwd6WeVwwgkcDDgHaE7&w=306&h=204&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" 
+        ],
+        "availableDates": ["2024-12-29", "2024-12-30", "2024-12-31"],
+        "smokingAllowed": false,
+        "petFriendly": false
+      },
+      {
+        "roomId": "RM023",
+        "type": "Underground Bunker",
+        "pricePerNight": 400,
+        "currency": "USD",
+        "capacity": 6,
+        "bedType": "Bunk Beds",
+        "size": "120 sqm",
+        "theme": "Apocalypse Preparedness",
+        "floorNumber": "Subterranean",
+        "view": "LED Screens",
+        "amenities": [
+          "Survival Gear",
+          "Fully Stocked Pantry",
+          "Board Games",
+          "High-Speed Internet",
+          "Entertainment System",
+          "Secure Vault"
+        ],
+        "images": [
+          "https://th.bing.com/th?id=OIP.I8G8xjBPrtAU3w6b5-qaBwHaFN&w=298&h=209&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"
+        ],
+        "availableDates": ["2024-12-28", "2024-12-29", "2024-12-30"],
+        "smokingAllowed": true,
+        "petFriendly": false
+      },
+      {
+        "roomId": "RM024",
+        "type": "Vintage Train Carriage",
+        "pricePerNight": 500,
+        "currency": "USD",
+        "capacity": 4,
+        "bedType": "Two Double Beds",
+        "size": "80 sqm",
+        "theme": "Railroad Memories",
+        "floorNumber": "Track Level",
+        "view": "Countryside",
+        "amenities": [
+          "Pullman Seating",
+          "Wooden Panels",
+          "Vintage Luggage",
+          "Conductor's Whistle",
+          "Outdoor Train Ride",
+          "Curtained Windows"
+        ],
+        "images": [
+          "https://th.bing.com/th/id/OIP.lF5VK1jCX1Jq0Im8ST1FFgHaE8?w=287&h=191&c=7&r=0&o=5&pid=1.7" 
+        ],
+        "availableDates": ["2024-12-30", "2024-12-31", "2025-01-01"],
+        "smokingAllowed": false,
+        "petFriendly": true
+      },
+      {
+        "roomId": "RM025",
+        "type": "Castle Chamber",
+        "pricePerNight": 750,
+        "currency": "USD",
+        "capacity": 4,
+        "bedType": "Four-Poster King Bed",
+        "size": "100 sqm",
+        "theme": "Medieval Elegance",
+        "floorNumber": 3,
+        "view": "Castle Grounds",
+        "amenities": [
+          "Stone Walls",
+          "Armor Displays",
+          "Fireplace",
+          "Royal Dining Area",
+          "Balcony with View",
+          "King’s Library"
+        ],
+        "images": [
+          "https://th.bing.com/th/id/OIP.lF5VK1jCX1Jq0Im8ST1FFgHaE8?w=287&h=191&c=7&r=0&o=5&pid=1.7"
+        ],
+        "availableDates": ["2024-12-30", "2024-12-31", "2025-01-01"],
+        "smokingAllowed": false,
+        "petFriendly": false
+      }
+    ]
+
+
+  
+      
+    
+
+      
+   
+      {
+        "roomId": "RM026",
+        "type": "Ice Palace Suite",
+        "pricePerNight": 1200,
+        "currency": "USD",
+        "capacity": 3,
+        "bedType": "King",
+        "size": "85 sqm",
+        "theme": "Frozen Wonderland",
+        "floorNumber": "Ice Level",
+        "view": "Glacial Vista",
+        "amenities": [
+          "Ice Sculptures",
+          "Thermal Sleeping Bags",
+          "Heated Floors",
+          "Frosted Glass Walls",
+          "Snowflake Lighting",
+          "Hot Cocoa Station"
+        ],
+        "images": [
+          "https://example.com/images/ice_palace1.jpg",
+          "https://example.com/images/ice_palace2.jpg"
+        ],
+        "availableDates": ["2024-12-28", "2024-12-29", "2024-12-30"],
+        "smokingAllowed": false,
+        "petFriendly": false
+      },
+      {
+        "roomId": "RM027",
+        "type": "Treehouse Escape",
+        "pricePerNight": 850,
+        "currency": "USD",
+        "capacity": 4,
+        "bedType": "Queen + Twin Beds",
+        "size": "75 sqm",
+        "theme": "Canopy Retreat",
+        "floorNumber": "Tree Canopy",
+        "view": "Forest",
+        "amenities": [
+          "Suspension Bridge",
+          "Outdoor Deck",
+          "Eco-Friendly Features",
+          "Hammock",
+          "Nature Walks",
+          "Bird Watching Kit"
+        ],
+        "images": [
+          "https://example.com/images/treehouse_escape1.jpg",
+          "https://example.com/images/treehouse_escape2.jpg"
+        ],
+        "availableDates": ["2024-12-29", "2024-12-30", "2024-12-31"],
+        "smokingAllowed": false,
+        "petFriendly": true
+      },
+      {
+        "roomId": "RM028",
+        "type": "Underwater Bubble",
+        "pricePerNight": 1500,
+        "currency": "USD",
+        "capacity": 2,
+        "bedType": "Queen",
+        "size": "50 sqm",
+        "theme": "Marine Marvel",
+        "floorNumber": "Submerged",
+        "view": "Coral Reef",
+        "amenities": [
+          "360-Degree Glass Walls",
+          "Private Submarine Rides",
+          "Marine Life Viewing",
+          "Ambient Blue Lighting",
+          "Ocean Sound System",
+          "Snorkeling Gear"
+        ],
+        "images": [
+          "https://example.com/images/underwater_bubble1.jpg",
+          "https://example.com/images/underwater_bubble2.jpg"
+        ],
+        "availableDates": ["2024-12-30", "2024-12-31", "2025-01-01"],
+        "smokingAllowed": false,
+        "petFriendly": false
+      },
+      {
+        "roomId": "RM029",
+        "type": "Desert Oasis Villa",
+        "pricePerNight": 900,
+        "currency": "USD",
+        "capacity": 5,
+        "bedType": "King + Twin Beds",
+        "size": "100 sqm",
+        "theme": "Sandy Serenity",
+        "floorNumber": "Ground",
+        "view": "Dunes and Palm Trees",
+        "amenities": [
+          "Private Pool",
+          "Outdoor Fire Pit",
+          "Camel Rides",
+          "Moroccan Decor",
+          "Desert Stargazing",
+          "Cooling Mist System"
+        ],
+        "images": [
+          "https://example.com/images/desert_oasis1.jpg",
+          "https://example.com/images/desert_oasis2.jpg"
+        ],
+        "availableDates": ["2024-12-30", "2024-12-31", "2025-01-01"],
+        "smokingAllowed": true,
+        "petFriendly": true
+      },
+      {
+        "roomId": "RM030",
+        "type": "Victorian Manor Room",
+        "pricePerNight": 700,
+        "currency": "USD",
+        "capacity": 4,
+        "bedType": "King + Sofa Bed",
+        "size": "95 sqm",
+        "theme": "Timeless Elegance",
+        "floorNumber": 2,
+        "view": "Rose Garden",
+        "amenities": [
+          "Four-Poster Bed",
+          "Antique Furniture",
+          "Grand Fireplace",
+          "Clawfoot Tub",
+          "Chandelier Lighting",
+          "Butler Service"
+        ],
+        "images": [
+          "https://example.com/images/victorian_manor1.jpg",
+          "https://example.com/images/victorian_manor2.jpg"
+        ],
+        "availableDates": ["2024-12-29", "2024-12-30", "2024-12-31"],
+        "smokingAllowed": false,
+        "petFriendly": false
+      },
+      {
+        "roomId": "RM031",
+        "type": "Jungle Safari Tent",
+        "pricePerNight": 750,
+        "currency": "USD",
+        "capacity": 3,
+        "bedType": "Queen",
+        "size": "70 sqm",
+        "theme": "Wild Exploration",
+        "floorNumber": "Ground",
+        "view": "Jungle Canopy",
+        "amenities": [
+          "Outdoor Shower",
+          "Fire Pit",
+          "Wildlife Tours",
+          "Eco-Friendly Features",
+          "Hammock",
+          "Guided Jungle Walks"
+        ],
+        "images": [
+          "https://example.com/images/jungle_safari_tent1.jpg",
+          "https://example.com/images/jungle_safari_tent2.jpg"
+        ],
+        "availableDates": ["2024-12-28", "2024-12-29", "2024-12-30"],
+        "smokingAllowed": true,
+        "petFriendly": true
+      },
+      {
+        "roomId": "RM032",
+        "type": "Modern Sky Loft",
+        "pricePerNight": 1200,
+        "currency": "USD",
+        "capacity": 4,
+        "bedType": "King + Sofa Bed",
+        "size": "110 sqm",
+        "theme": "Urban Luxury",
+        "floorNumber": 25,
+        "view": "City Skyline",
+        "amenities": [
+          "Floor-to-Ceiling Windows",
+          "Smart Home Features",
+          "Private Elevator",
+          "Infinity Pool",
+          "Designer Furniture",
+          "Art Collection"
+        ],
+        "images": [
+          "https://example.com/images/modern_sky_loft1.jpg",
+          "https://example.com/images/modern_sky_loft2.jpg"
+        ],
+        "availableDates": ["2024-12-30", "2024-12-31", "2025-01-01"],
+        "smokingAllowed": false,
+        "petFriendly": false
+      },
+      {
+        "roomId": "RM033",
+        "type": "Space Capsule",
+        "pricePerNight": 1300,
+        "currency": "USD",
+        "capacity": 2,
+        "bedType": "Single Pods",
+        "size": "40 sqm",
+        "theme": "Futuristic Adventure",
+        "floorNumber": "Orbital",
+        "view": "Earth from Space",
+        "amenities": [
+          "Zero-Gravity Experience",
+          "LED Lighting",
+          "Touchscreen Controls",
+          "AI Concierge",
+          "Space-Themed Meals",
+          "VR Space Exploration"
+        ],
+        "images": [
+          "https://example.com/images/space_capsule1.jpg",
+          "https://example.com/images/space_capsule2.jpg"
+        ],
+        "availableDates": ["2024-12-30", "2024-12-31", "2025-01-01"],
+        "smokingAllowed": false,
+        "petFriendly": false
+      },
+      {
+        "roomId": "RM034",
+        "type": "Cave Retreat",
+        "pricePerNight": 600,
+        "currency": "USD",
+        "capacity": 4,
+        "bedType": "King + Twin Beds",
+        "size": "90 sqm",
+        "theme": "Ancient Comfort",
+        "floorNumber": "Underground",
+        "view": "Natural Rock Formations",
+        "amenities": [
+          "Stone Walls",
+          "Natural Pools",
+          "Eco-Lighting",
+          "Fireplace",
+          "Hand-Carved Furniture",
+          "Private Grotto"
+        ],
+        "images": [
+          "https://example.com/images/cave_retreat1.jpg",
+          "https://example.com/images/cave_retreat2.jpg"
+        ],
+        "availableDates": ["2024-12-28", "2024-12-29", "2024-12-30"],
+        "smokingAllowed": false,
+        "petFriendly": true
+      },
+      {
+        "roomId": "RM035",
+        "type": "Enchanted Forest Cabin",
+        "pricePerNight": 950,
+        "currency": "USD",
+        "capacity": 5,
+        "bedType": "Queen + Twin Beds",
+        "size": "95 sqm",
+        "theme": "Mystical Hideaway",
+        "floorNumber": "Ground",
+        "view": "Glow-in-the-Dark Forest",
+        "amenities": [
+          "Magical Lighting",
+          "Outdoor Hot Tub",
+          "Fairy Garden",
+          "Fire Pit",
+          "Interactive Storybooks",
+          "Private Nature Trails"
+        ],
+        "images": [
+          "https://example.com/images/enchanted_forest_cabin1.jpg",
+          "https://example.com/images/enchanted_forest_cabin2.jpg"
+        ],
+        "availableDates": ["2024-12-30", "2024-12-31", "2025-01-01"],
+        "smokingAllowed": false,
+        "petFriendly": true
+      }
+    ]
+ 
+  
+  
