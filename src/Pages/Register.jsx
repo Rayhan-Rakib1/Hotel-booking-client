@@ -41,7 +41,7 @@ const Register = () => {
       <div className="w-full max-w-lg p-8 space-y-8 bg-white rounded-lg shadow-lg">
         <h1 className="text-3xl font-bold text-center text-gray-700">Create an Account</h1>
         <p className="text-center text-sm text-gray-500">
-          Join us today! Fill in the details to create your Account.
+          Join us today! Fill in the details to create your Account
         </p>
         <form onSubmit={handleRegister} className="space-y-6">
           <div className="space-y-1">
